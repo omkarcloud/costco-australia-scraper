@@ -1,0 +1,295 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "autoSpellCheck" : false,
+   "breadcrumbs" : [ ],
+   "currentQuery" : {
+      "query" : {
+         "value" : "zzqqxxnothing:relevance"
+      },
+      "url" : "/search?q=zzqqxxnothing%3Arelevance"
+   },
+   "didYouMean" : false,
+   "facets" : [ {
+      "category" : true,
+      "deliveryFacet" : false,
+      "displayName" : "Category",
+      "multiSelect" : true,
+      "name" : "category",
+      "priority" : 8000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "cos_22.5.6",
+         "count" : 1,
+         "name" : "Cables & Accessories",
+         "query" : {
+            "query" : {
+               "value" : "zzqqxxnothing:relevance:category:cos_22.5.6"
+            },
+            "url" : "/search?q=zzqqxxnothing%3Arelevance%3Acategory%3Acos_22.5.6"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : true,
+      "deliveryFacet" : false,
+      "displayName" : "Brand",
+      "multiSelect" : true,
+      "name" : "Brand",
+      "priority" : 7000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "ZGO",
+         "count" : 1,
+         "name" : "ZGO",
+         "query" : {
+            "query" : {
+               "value" : "zzqqxxnothing:relevance:Brand:ZGO"
+            },
+            "url" : "/search?q=zzqqxxnothing%3Arelevance%3ABrand%3AZGO"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Price",
+      "multiSelect" : true,
+      "name" : "visiblePrice",
+      "priority" : -9000,
+      "translatable" : true,
+      "values" : [ {
+         "code" : "$0 - $499",
+         "count" : 1,
+         "name" : "$0 - $499",
+         "query" : {
+            "query" : {
+               "value" : "zzqqxxnothing:relevance:visiblePrice:%240+-+%24499"
+            },
+            "url" : "/search?q=zzqqxxnothing%3Arelevance%3AvisiblePrice%3A%25240%2B-%2B%2524499"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Id Verification Required",
+      "multiSelect" : true,
+      "name" : "idVerificationEnabled",
+      "priority" : -9999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "false",
+         "count" : 1,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : "zzqqxxnothing:relevance:idVerificationEnabled:false"
+            },
+            "url" : "/search?q=zzqqxxnothing%3Arelevance%3AidVerificationEnabled%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   } ],
+   "freeTextSearch" : "zzqqxxnothing",
+   "indexSelection" : true,
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 8,
+      "sort" : "relevance",
+      "totalPages" : 1,
+      "totalResults" : 1
+   },
+   "products" : [ {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "Small-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "brands",
+         "value" : true
+      }, {
+         "key" : "ZGO",
+         "value" : false
+      }, {
+         "key" : "cos_40.8.3",
+         "value" : true
+      }, {
+         "key" : "cos_22.5.6",
+         "value" : true
+      }, {
+         "key" : "cos_40",
+         "value" : true
+      }, {
+         "key" : "cos_40.8",
+         "value" : true
+      }, {
+         "key" : "costco",
+         "value" : true
+      }, {
+         "key" : "cos_22.5",
+         "value" : true
+      }, {
+         "key" : "cos_22",
+         "value" : true
+      } ],
+      "addableToCartFromListingPage" : true,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 0.0,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$899.98",
+         "formattedValue" : "$449.99",
+         "intValue" : 44999,
+         "priceType" : "BUY",
+         "value" : 449.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "200737",
+      "couponDiscount" : {
+         "discountType" : "default",
+         "hideDiscountCalculation" : false
+      },
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"product-details-wrapper-au\">\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\">\n<h2>ZGO ZDock Dual Video USB Docking Station White ZGO-ZDOCK-WH</h2>\nZDock is a dual video USB Docking Station that integrates into the base of any ZGO monitor arm. The combination of a monitor arm, with full cable management and a dock at its base, allows all cables to be routed through the arm to the rear of the dock. There the video cables are connected, while the power cables drop behind the desk to outlets.\n\n<h3>Organise Your Workspace</h3>\nHaving the cables drop behind the desk eliminates all device and peripheral cables from the desktop, which increases usable workspace and provides a cleaner, more streamlined appearance that improves overall office aesthetics and offers a more orderly work environment.\n\n<h3>Easy To Use</h3>\nUnlike other Integrated Docks, ZDock slides over the base of the arm without ever needing to deinstall the monitor arm to add or replace the dock.\n\n<h3>Backwards Compatible</h3>\nZDock is a backwards compatible USB Docking Station that supports both USB-A and USB-C Notebooks with up to 100W of Power Delivery. It offers 8 USB ports, including a high speed 2.4A Type-A charging port and Type-C 3.0A charging port. Both primary charging ports are disconnected from the computer to allow charging without violating any potential USB security protocols.<br />\n&nbsp;\n<p>This product features:</p>\n\n<ul class=\"in-page-list-style\">\n\t<li>Max Power: 20V/150W</li>\n\t<li>USB Upstream Port: USB-C full feature with 100W PD charging. Support PD2.0 v1.2</li>\n\t<li>Video output: 2 x DP++ Dual mode DP1.2</li>\n\t<li>Downstream Back USB Port: 3 x USB-A 3.1 Gen1 5V, 0.9A</li>\n\t<li>Network: Gigabit Ethernet/transfer rate 10Mbit/100Mbit/1Gbit</li>\n\t<li>TRRS 3.5 mm combo jack for Apple/Samsung type</li>\n\t<li>Easily retrofits at any time and available as a stand alone</li>\n\t<li>Type-C backwards compatible with USB 3.0</li>\n</ul>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n</div>\n",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "ZGO ZDock Dual Video USB Docking Station White ZGO-ZDOCK-WH",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : false,
+      "hasPricePerUnit" : false,
+      "hidePriceValue" : false,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h8d/h59/262751922323486.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h36/h01/262751921012766.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/he8/hc9/262751921242142.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/he8/hc9/262751921242142.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h65/h93/262751923863582.webp"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hff/h1c/262751924387870.webp"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hdc/h2e/262751924781086.webp"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hdc/h2e/262751924781086.webp"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : false,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 0.0,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "ZGO ZDock Dual Video USB Docking Station White ZGO-ZDOCK-WH",
+      "nameInSelectedLanguage" : "ZGO ZDock Dual Video USB Docking Station White ZGO-ZDOCK-WH",
+      "normalizedLexicalScore" : 0.0,
+      "normalizedVectorScore" : 0.76546955,
+      "overlayRequired" : false,
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$899.98",
+         "formattedValue" : "$449.99",
+         "intValue" : 44999,
+         "priceType" : "BUY",
+         "value" : 449.99
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : true,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 0.76546955,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "tire" : false,
+      "url" : "/Computers/Computer-Accessories/Cables-Accessories/ZGO-ZDock-Dual-Video-USB-Docking-Station-White-ZGO-ZDOCK-WH/p/200737",
+      "validExVatData" : true,
+      "vectorScore" : 0.76546955,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   } ],
+   "sorts" : [ {
+      "code" : "relevance",
+      "name" : "Relevance",
+      "selected" : true
+   }, {
+      "code" : "name-asc",
+      "name" : "Name (A-Z)",
+      "selected" : false
+   }, {
+      "code" : "name-desc",
+      "name" : "Name (Z-A)",
+      "selected" : false
+   }, {
+      "code" : "price-asc",
+      "name" : "Price (Low to High)",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price (High to Low)",
+      "selected" : false
+   }, {
+      "code" : "sellCount-desc",
+      "name" : "Top Sellers",
+      "selected" : false
+   }, {
+      "code" : "ratings-desc",
+      "name" : "Top Rated",
+      "selected" : false
+   } ]
+}

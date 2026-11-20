@@ -1,0 +1,429 @@
+{
+   "addOnServices" : [ ],
+   "addableToCartFromCarousel" : true,
+   "addonHasPDP" : false,
+   "ageRestricted" : false,
+   "allowGiftMessage" : false,
+   "as400Discount" : false,
+   "availableForPickup" : false,
+   "availableForPreorder" : false,
+   "averageRating" : 4.8,
+   "baseOptions" : [ ],
+   "boostScore" : 0.0,
+   "bundleTemplates" : [ ],
+   "businessDelivery" : false,
+   "buyNowEnabled" : true,
+   "cartGroup" : {
+      "allowMultiCartGroup" : false,
+      "allowSavePayment" : false,
+      "allowSplitShippingAddresses" : true,
+      "alwaysRequireIdentityVerification" : false,
+      "categoryId" : "costco",
+      "deliveryOptions" : [ {
+         "code" : "WAREHOUSE_PICKUP_ONLY",
+         "deliveryConfig" : {
+         },
+         "deliveryOptionCode" : "default-warehouse-pickup-only-australia",
+         "displayName" : "Tyre Warehouse Pickup",
+         "isPickup" : false,
+         "shippingOptionType" : "WAREHOUSE_PICKUP_ONLY",
+         "warehousePickupOnly" : true
+      }, {
+         "code" : "DELIVERY_TO_ADDRESS",
+         "deliveryConfig" : {
+         },
+         "deliveryOptionCode" : "default-standard-delivery-option-australia",
+         "displayName" : "Standard Delivery",
+         "isPickup" : false,
+         "shippingOptionType" : "DELIVERY_TO_ADDRESS",
+         "warehousePickupOnly" : false
+      } ],
+      "displayCartGroup" : false,
+      "displayDeliveryPostalCode" : true,
+      "displayExVat" : false,
+      "displayName" : "Default Cart Group",
+      "displaySeq" : 0,
+      "enableDeliveryInstruction" : false,
+      "enableDeliverySchedule" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasMultipleGroupProducts" : false,
+      "hasRestrictedZoneGroup" : false,
+      "hideDeliveryInfoHeader" : false,
+      "individualCheckout" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "invoiceGenerationDisabled" : false,
+      "isCheckoutDisabled" : false,
+      "membershipEligibilityNames" : [ ],
+      "minOrderThreshold" : {
+         "currencyIso" : "AUD",
+         "formattedValue" : "$0.00",
+         "intValue" : 0,
+         "priceType" : "BUY",
+         "value" : 0.0
+      },
+      "minQuantity" : 0,
+      "modulus" : 0,
+      "purchasableOnline" : true,
+      "queuedOrderWaitingTime" : 0,
+      "remorsePeriodEnabled" : false,
+      "restrictChangeWarehouseByGroup" : false,
+      "restrictFitmentDateByGroup" : false,
+      "showTag" : false,
+      "tire" : false,
+      "warehouseFulfilled" : false
+   },
+   "categories" : [ {
+      "campaign" : false,
+      "code" : "cos_10.3.7",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Liqueurs",
+      "url" : "/Wine-Spirits/Spirits/Liqueurs/c/cos_10.3.7"
+   }, {
+      "campaign" : false,
+      "code" : "cos_10.6",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "image" : {
+         "mime" : "image/jpeg",
+         "url" : "/medias/sys_master/thumbnails/hd3/h54/366093719109662.jpg"
+      },
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Over-Sized Spirits",
+      "url" : "/Wine-Spirits/Over-Sized-Spirits/c/cos_10.6"
+   }, {
+      "campaign" : false,
+      "code" : "KAHLUA",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "KAHLUA",
+      "url" : "/KAHLUA/c/KAHLUA"
+   }, {
+      "campaign" : false,
+      "code" : "Small-Pack-Items",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Small-Pack-Items",
+      "url" : "/c/Small-Pack-Items"
+   }, {
+      "campaign" : false,
+      "code" : "mothers-day-2025-hampers-flowers",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Mother's Day Hampers, Flowers & Gift Cards",
+      "url" : "/c/mothers-day-2025-hampers-flowers"
+   } ],
+   "classifications" : [ {
+      "code" : "class_10.1",
+      "features" : [ {
+         "code" : "australiaClassificationCatalog/1.0/class_10.1.class_10.1 | alcohol volume",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "16%"
+         } ],
+         "name" : "Alcohol Volume",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/class_10.1.class_10.1 | country",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "Mexico"
+         } ],
+         "name" : "Country",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/class_10.1.class_10.1 | bottle",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "1.75 Litre"
+         } ],
+         "name" : "Bottle",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/class_10.1.class_10.1 | standard drinks",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "22"
+         } ],
+         "name" : "Standard Drinks",
+         "range" : false
+      } ]
+   }, {
+      "code" : "class_10.3",
+      "features" : [ {
+         "code" : "australiaClassificationCatalog/1.0/class_10.3.class_10.3 | alcohol volume",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "16%"
+         } ],
+         "name" : "Alcohol Volume",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/class_10.3.class_10.3 | country",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "Mexico"
+         } ],
+         "name" : "Country",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/class_10.3.class_10.3 | bottle",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "1.75 Litre"
+         } ],
+         "name" : "Bottle",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/class_10.3.class_10.3 | standard drinks",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "22"
+         } ],
+         "name" : "Standard Drinks",
+         "range" : false
+      } ]
+   }, {
+      "code" : "general",
+      "features" : [ {
+         "code" : "australiaClassificationCatalog/1.0/general.general | brand",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "Kahlua"
+         } ],
+         "name" : "Brand",
+         "range" : false
+      }, {
+         "code" : "australiaClassificationCatalog/1.0/general.general | type",
+         "comparable" : true,
+         "featureValues" : [ {
+            "value" : "Coffee Liqueur"
+         } ],
+         "name" : "Type",
+         "range" : false
+      } ]
+   } ],
+   "code" : "42943",
+   "configurable" : false,
+   "decalData" : [ ],
+   "delivery" : "",
+   "departmentNumber" : "16",
+   "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\"><h2>Kahlua Coffee Liqueur 1.75L</h2>From the high mountains of Veracruz, Mexico comes the original Kahlua coffee liqueur. The blend of 100% Arabica coffee and sugarcane spirit creates a dark intensity with a rich flavour, with notes of vanilla and caramel. Kahlua is best enjoyed chilled, over ice or in your favourite cocktail or coffee drink.</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n",
+   "discountMessage" : "",
+   "displayExVatPrice" : false,
+   "displayShippingIncludedTag" : false,
+   "englishName" : "Kahlua Coffee Liqueur 1.75L",
+   "excludePaymentPlan" : false,
+   "expeditedDelivery" : false,
+   "groupId" : "default-cartgroup-australia",
+   "hasOtherOptionsVariants" : false,
+   "hasPricePerUnit" : true,
+   "hasProductDeliveryAvailabilityDay" : false,
+   "hidePriceValue" : true,
+   "idVerificationEnabled" : false,
+   "images" : [ {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "superZoom",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/hcb/hc8/349172175667230.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "zoom",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/hcb/hc8/349172175667230.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "product",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/he5/h31/349172176683038.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "thumbnail",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h0b/ha0/349172176912414.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "cartIcon",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h0b/ha0/349172176912414.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "results",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/he5/h44/349172176781342.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "carousel",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/he5/h44/349172176781342.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "superZoom-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/hbe/h3f/349172176977950.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "zoom-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/hbe/h3f/349172176977950.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "product-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h23/h70/349172177174558.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "thumbnail-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h24/hfe/349172177043486.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "cartIcon-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h24/hfe/349172177043486.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "results-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h1d/h77/349172177305630.jpg"
+   }, {
+      "altText" : "Kahlua Coffee Liqueur 1.75L",
+      "format" : "carousel-webp",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "mime" : "image/jpeg",
+      "url" : "/medias/sys_master/images/h1d/h77/349172177305630.jpg"
+   } ],
+   "inMyWishlist" : false,
+   "inRestrictedZone" : false,
+   "ineligibleToLeaveUnattended" : false,
+   "ingredients" : [ ],
+   "isBaseProduct" : false,
+   "isExternalVendorProduct" : false,
+   "isExternalVendorVariantProduct" : false,
+   "isProductAvailable" : true,
+   "lexicalScore" : 0.0,
+   "maxOrderQuantity" : 825,
+   "maxOrderQuantityPerDateRange" : 0,
+   "membership" : false,
+   "membershipRestrictionApplied" : false,
+   "minOrderQuantity" : 1,
+   "minimumVerificationAge" : 0,
+   "modulusItemQuantity" : 1,
+   "multiProduct" : false,
+   "multidimensional" : false,
+   "name" : "Kahlua Coffee Liqueur 1.75L",
+   "needUserConsent" : false,
+   "normalizedLexicalScore" : 0.0,
+   "normalizedVectorScore" : 0.0,
+   "numberOfReviews" : 24,
+   "overlayRequired" : false,
+   "pdpMessages" : [ {
+      "key" : "pdp_msg_delivery",
+      "value" : "<p>Please allow 2-5 business days for delivery. Regional and remote areas may require additional transit time</p>\n"
+   }, {
+      "key" : "pdp_msg_other",
+      "value" : "<p>It is against the law to sell or supply alcohol to or obtain alcohol on behalf of a person under the age of 18 years.</p>\n"
+   } ],
+   "potentialPromotions" : [ ],
+   "priceRange" : {
+   },
+   "productCartGroupAvailableInWarehouse" : true,
+   "productReferences" : [ ],
+   "productType" : "ProductModel",
+   "purchasable" : true,
+   "randomWeight" : false,
+   "requiresAgeVerification" : false,
+   "restricted" : false,
+   "returns" : "<div class=\"delivery-dsc-wrapper\">\n<div class=\"delivery-title\"><img alt=\"Delivery Icon\" class=\"margin-right-2\" src=\"https://www.costco.com.au/mediapermalink/COS01-product-icon-delivery\" />Delivery</div>\n\n<div class=\"delivery-dsc\">\n<ul class=\"delivery-indent\">\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Online orders are delivered to a home or business address only.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Additional transit days may be required for remote areas.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Delivery times may be impacted by adverse weather conditions.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Please note that we are unable to ship to PO boxes and parcel lockers.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Post code delivery restrictions may apply for certain items.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Public holidays may affect delivery lead times.</li>\n\n</ul>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n\n<div class=\"delivery-dsc-wrapper\">\n<div class=\"delivery-title\"><img alt=\"Returns Icon\" class=\"margin-right-2\" src=\"https://www.costco.com.au/mediapermalink/COS01-product-icon-return\" />Returns</div>\n\n<div class=\"delivery-dsc\">\n<ul class=\"delivery-indent\">\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>For change of mind, returns and exceptions to what can be returned, see <a href=\"/member-care/refunds-and-return/what-is-our-refund-policy\">Costco's Return Policy</a>.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Our returns policy for change of mind does not limit any of your rights under Australian Consumer Law.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Items purchased online can be returned at any of our Australian warehouses.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Many of our small items can be returned via <a href=\"https://www.costco.com.au/login\">&ldquo;My account&rdquo;</a> on the website.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>Please securely pack the items you intend to return in a box. If you are using the original packaging, be sure to remove the delivery label.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>You can print a return label by visiting <a href=\"https://www.costco.com.au/login\">&ldquo;My account&rdquo;</a>. This label must be attached to the box being returned.</li>\n\t<li><span class=\"glyphicon glyphicon-ok\">&nbsp;</span>If you need to return a larger item, please contact our Member Care team via the chat function on our website or call <a href=\"tel:0353167223\">(03)&nbsp;5316&nbsp;7223</a>.</li>\n</ul>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n",
+   "rollingTimePeriod" : 0,
+   "score" : 0.0,
+   "shippingIncluded" : true,
+   "shippingPurchaseMethodExceptionMessage" : "",
+   "shippingRestrictionApplied" : false,
+   "showEnergyRating" : false,
+   "showEstimatedDeliveryDate" : false,
+   "soldIndividually" : true,
+   "specs" : "",
+   "stock" : {
+      "contactDay" : 0,
+      "deliveryLeadTime" : 0,
+      "stockLevel" : 57,
+      "stockLevelStatus" : "inStock"
+   },
+   "summary" : "",
+   "supercategories" : [ {
+      "campaign" : false,
+      "code" : "cos_10.3.7",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Liqueurs",
+      "url" : "/Wine-Spirits/Spirits/Liqueurs/c/cos_10.3.7"
+   }, {
+      "campaign" : false,
+      "code" : "cos_10.3",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Spirits",
+      "url" : "/Wine-Spirits/Spirits/c/cos_10.3"
+   }, {
+      "campaign" : false,
+      "code" : "cos_10",
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "name" : "Wine & Spirits",
+      "url" : "/Wine-Spirits/c/cos_10"
+   } ],
+   "terms" : "",
+   "tire" : false,
+   "tireSummary" : [ ],
+   "unitType" : "ML",
+   "url" : "/Wine-Spirits/Spirits/Liqueurs/Kahlua-Coffee-Liqueur-175L/p/42943",
+   "validExVatData" : true,
+   "vectorScore" : 0.0,
+   "warehouseFulfilled" : false,
+   "warehouseHidePriceValue" : false,
+   "warehousePickupOnly" : false,
+   "warranty" : ""
+}

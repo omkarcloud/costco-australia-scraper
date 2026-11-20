@@ -1,0 +1,54 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "indexSelection" : true,
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 1,
+      "sort" : "relevance",
+      "totalPages" : 32,
+      "totalResults" : 32
+   },
+   "category" : {
+      "campaign" : false,
+      "code" : "cos_2.4",
+      "defaultSearchOption" : {
+         "code" : "au-search-all",
+         "name" : "ALL"
+      },
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "image" : {
+         "altText" : "Small Appliances",
+         "mime" : "image/jpeg",
+         "url" : "/medias/sys_master/images/h11/hbd/52496279961630.jpg"
+      },
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "metaDescription" : "Shop our top brands of coffee makers, expresso machines and juicers. We stock coffee capsules, beans and more. Get the perfect cuppa at today!",
+      "metaKeywords" : "Coffee & Espresso Machines | Coffee Capsules, Beans & Accessories | Drink & Ice Makers | Juicers",
+      "metaTitle" : "Buy Coffee Makers & Juicers - Costco Australia",
+      "name" : "Coffee & Drink Makers",
+      "subCategories" : [ {
+         "code" : "cos_2.4.4"
+      }, {
+         "code" : "cos_2.4.5"
+      }, {
+         "code" : "cos_2.4.8"
+      }, {
+         "code" : "cos_2.4.1"
+      } ],
+      "supercategories" : [ {
+         "campaign" : false,
+         "code" : "cos_2",
+         "deliveryLimitationsEnabled" : false,
+         "displayPostalCodeHeader" : false,
+         "ineligibleToLeaveUnattended" : false,
+         "landingPage" : false,
+         "name" : "Appliances",
+         "url" : "/Appliances/c/cos_2"
+      } ],
+      "url" : "/Appliances/Coffee-Drink-Makers/c/cos_2.4"
+   },
+   "subCategories" : [ ]
+}

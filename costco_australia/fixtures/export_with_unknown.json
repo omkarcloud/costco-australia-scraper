@@ -1,0 +1,168 @@
+{
+   "product" : [ {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "Small-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "brands",
+         "value" : true
+      }, {
+         "key" : "cos_2.4",
+         "value" : true
+      }, {
+         "key" : "cos_40",
+         "value" : true
+      }, {
+         "key" : "cos_40.8",
+         "value" : true
+      }, {
+         "key" : "mothers-day-2025-home-decor",
+         "value" : true
+      }, {
+         "key" : "appliances",
+         "value" : false
+      }, {
+         "key" : "40.8.11",
+         "value" : true
+      }, {
+         "key" : "costco",
+         "value" : true
+      }, {
+         "key" : "KENMORE",
+         "value" : false
+      }, {
+         "key" : "cos_2",
+         "value" : true
+      }, {
+         "key" : "cos_2.4.4",
+         "value" : true
+      } ],
+      "addableToCartFromListingPage" : true,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 4.4,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$159.98",
+         "formattedValue" : "$79.99",
+         "intValue" : 7999,
+         "priceType" : "BUY",
+         "value" : 79.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "255146",
+      "couponDiscount" : {
+         "discountType" : "default",
+         "hideDiscountCalculation" : false
+      },
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"product-details-wrapper-au\">\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\">\n<h2>Kenmore Drip Coffee Maker KKCM12WAU</h2>\nThere&#39;s nothing better in the world than that first sip of coffee in the morning and with this programmable 12 cup coffee maker you won&#39;t have to wait. Programme the brewer the night before and wake up to the delicious aroma of perfectly brewed coffee or make a fresh, hot pot with the push of a button. The dishwasher safe glass carafe holds up to 12 cups of brewed coffee and a non stick warming plate keeps it hot and flavourful for hours. The attractive stainless steel profile with four colour options will complement any decor and the narrow profile means more countertop space. With a charcoal filter to remove impurities from the water before brewing and state of the art aroma control brewing technology that steeps the grounds before releasing the coffee into the carafe, you&#39;ll definitely be waking up on the right side of the bed from now on. Best of all, Kenmore products are covered by a 2 year limited warranty for your peace of mind.<br />\n&nbsp;\n<p>The product features:</p>\n\n<ul class=\"in-page-list-style\">\n\t<li>Coffee maker base, glass carafe with lid, reusable cone filter, water filter holder, 1 x charcoal water filter cartridge</li>\n\t<li>Large 12 coffee cup capacity in this coffee machine: brew up to 1.8 L of coffee</li>\n\t<li>Programmable convenience: set the timer the night before</li>\n\t<li>Includes water purifier and reusable filter: 12 cup coffee</li>\n\t<li>Bundle with 12 pack Kenmore filters &ndash; exclusive to Costco</li>\n\t<li>Bonus - 12 month supply charcoal filters (only at Costco)</li>\n\t<li>Power 1000 Watts</li>\n\t<li>With&nbsp;12 Filters&nbsp;</li>\n</ul>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n</div>\n",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "Kenmore Drip Coffee Maker KKCM12WAU",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : false,
+      "hasPricePerUnit" : false,
+      "hidePriceValue" : false,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hd0/hc8/436582821199902.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h8f/hc3/436582819692574.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h2f/hc3/436582820184094.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h2f/hc3/436582820184094.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h3a/h25/436582822314014.webp"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hd6/h91/436582822903838.webp"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h80/hd6/436582823428126.webp"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h80/hd6/436582823428126.webp"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : false,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 0.0,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "Kenmore Drip Coffee Maker KKCM12WAU",
+      "nameInSelectedLanguage" : "Kenmore Drip Coffee Maker KKCM12WAU",
+      "normalizedLexicalScore" : 0.0,
+      "normalizedVectorScore" : 0.0,
+      "numberOfReviews" : 7,
+      "overlayRequired" : false,
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$159.98",
+         "formattedValue" : "$79.99",
+         "intValue" : 7999,
+         "priceType" : "BUY",
+         "value" : 79.99
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : true,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 2.0,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "tire" : false,
+      "url" : "/Appliances/Coffee-Drink-Makers/Coffee-Espresso-Machines/Kenmore-Drip-Coffee-Maker-KKCM12WAU/p/255146",
+      "validExVatData" : true,
+      "vectorScore" : 0.0,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   } ]
+}

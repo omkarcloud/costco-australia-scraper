@@ -1,0 +1,57 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "autoSpellCheck" : false,
+   "breadcrumbs" : [ ],
+   "currentQuery" : {
+      "query" : {
+         "value" : ":relevance:allCategories:no-such-cat"
+      },
+      "url" : "/search?q=%3Arelevance%3AallCategories%3Ano-such-cat"
+   },
+   "didYouMean" : false,
+   "facets" : [ ],
+   "freeTextSearch" : "",
+   "indexSelection" : true,
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 5,
+      "sort" : "relevance",
+      "totalPages" : 0,
+      "totalResults" : 0
+   },
+   "products" : [ ],
+   "sorts" : [ {
+      "code" : "relevance",
+      "name" : "Relevance",
+      "selected" : true
+   }, {
+      "code" : "name-asc",
+      "name" : "Name (A-Z)",
+      "selected" : false
+   }, {
+      "code" : "name-desc",
+      "name" : "Name (Z-A)",
+      "selected" : false
+   }, {
+      "code" : "price-asc",
+      "name" : "Price (Low to High)",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price (High to Low)",
+      "selected" : false
+   }, {
+      "code" : "sellCount-desc",
+      "name" : "Top Sellers",
+      "selected" : false
+   }, {
+      "code" : "ratings-desc",
+      "name" : "Top Rated",
+      "selected" : false
+   } ],
+   "spellingSuggestion" : {
+      "query" : "{!boori}(+{!lucene v=$yq}):relevance:allCategories:no-such-cat",
+      "suggestion" : "{!boori}(+{!lucene v=$yq})"
+   }
+}

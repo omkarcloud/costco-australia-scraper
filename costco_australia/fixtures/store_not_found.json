@@ -1,0 +1,6 @@
+{
+   "errors" : [ {
+      "message" : "No PointOfService with name Nowhere, type STORE found in baseStore australia",
+      "type" : "UnknownIdentifierError"
+   } ]
+}

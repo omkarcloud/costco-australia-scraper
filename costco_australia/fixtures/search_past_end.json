@@ -1,0 +1,1066 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "autoSpellCheck" : false,
+   "breadcrumbs" : [ ],
+   "currentQuery" : {
+      "query" : {
+         "value" : "coffee:relevance"
+      },
+      "url" : "/search?q=coffee%3Arelevance"
+   },
+   "didYouMean" : false,
+   "facets" : [ {
+      "category" : false,
+      "cssClasses" : "facet-large facet-blue",
+      "deliveryFacet" : true,
+      "displayName" : "delivery",
+      "multiSelect" : true,
+      "name" : "delivery",
+      "priority" : 9999,
+      "translatable" : true,
+      "values" : [ {
+         "code" : "Business Delivery",
+         "count" : 11,
+         "name" : "Business Delivery",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:delivery:Business+Delivery"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Adelivery%3ABusiness%2BDelivery"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : true,
+      "deliveryFacet" : false,
+      "displayName" : "Category",
+      "multiSelect" : true,
+      "name" : "category",
+      "priority" : 8000,
+      "topValues" : [ {
+         "code" : "cos_6.5.2",
+         "count" : 1,
+         "name" : "Camping Equipment",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_6.5.2"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_6.5.2"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_40.2.1",
+         "count" : 2,
+         "name" : "Christmas Decorations",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_40.2.1"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_40.2.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_30.1.1",
+         "count" : 9,
+         "name" : "Coffee",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_30.1.1"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_30.1.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_2.4.4",
+         "count" : 10,
+         "name" : "Coffee & Espresso Machines",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_2.4.4"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_2.4.4"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_2.4.5",
+         "count" : 9,
+         "name" : "Coffee Capsules, Beans & Accessories",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_2.4.5"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_2.4.5"
+         },
+         "selected" : false
+      } ],
+      "translatable" : false,
+      "values" : [ {
+         "code" : "cos_6.5.2",
+         "count" : 1,
+         "name" : "Camping Equipment",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_6.5.2"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_6.5.2"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_40.2.1",
+         "count" : 2,
+         "name" : "Christmas Decorations",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_40.2.1"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_40.2.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_30.1.1",
+         "count" : 9,
+         "name" : "Coffee",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_30.1.1"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_30.1.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_2.4.4",
+         "count" : 10,
+         "name" : "Coffee & Espresso Machines",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_2.4.4"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_2.4.4"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_2.4.5",
+         "count" : 9,
+         "name" : "Coffee Capsules, Beans & Accessories",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_2.4.5"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_2.4.5"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_11.6.1",
+         "count" : 1,
+         "name" : "Coffee Tables",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_11.6.1"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_11.6.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_70",
+         "count" : 2,
+         "name" : "Everyday Essentials",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_70"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_70"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_2.5.9",
+         "count" : 3,
+         "name" : "Glassware & Drinkware",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_2.5.9"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_2.5.9"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_30.9.4",
+         "count" : 1,
+         "name" : "Gourmet Entertaining",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_30.9.4"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_30.9.4"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_10.3.7",
+         "count" : 1,
+         "name" : "Liqueurs",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_10.3.7"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_10.3.7"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_30.10.7",
+         "count" : 1,
+         "name" : "Liqueurs",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_30.10.7"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_30.10.7"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_10.6",
+         "count" : 1,
+         "name" : "Over-Sized Spirits",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_10.6"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_10.6"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_18.3",
+         "count" : 5,
+         "name" : "Pantry",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_18.3"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_18.3"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_60.3",
+         "count" : 1,
+         "name" : "Pantry",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_60.3"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_60.3"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_60.5",
+         "count" : 2,
+         "name" : "Paper & Plastic Products",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:category:cos_60.5"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3Acategory%3Acos_60.5"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : true,
+      "deliveryFacet" : false,
+      "displayName" : "Brand",
+      "multiSelect" : true,
+      "name" : "Brand",
+      "priority" : 7000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Breville",
+         "count" : 3,
+         "name" : "Breville",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Breville"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ABreville"
+         },
+         "selected" : false
+      }, {
+         "code" : "Cafe Express",
+         "count" : 2,
+         "name" : "Cafe Express",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Cafe+Express"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ACafe%2BExpress"
+         },
+         "selected" : false
+      }, {
+         "code" : "Coffex",
+         "count" : 1,
+         "name" : "Coffex",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Coffex"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ACoffex"
+         },
+         "selected" : false
+      }, {
+         "code" : "De' Longhi",
+         "count" : 2,
+         "name" : "De' Longhi",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:De%27+Longhi"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ADe%2527%2BLonghi"
+         },
+         "selected" : false
+      }, {
+         "code" : "De'Longhi",
+         "count" : 2,
+         "name" : "De'Longhi",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:De%27Longhi"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ADe%2527Longhi"
+         },
+         "selected" : false
+      }, {
+         "code" : "Delonghi",
+         "count" : 1,
+         "name" : "Delonghi",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Delonghi"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ADelonghi"
+         },
+         "selected" : false
+      }, {
+         "code" : "G7",
+         "count" : 1,
+         "name" : "G7",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:G7"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AG7"
+         },
+         "selected" : false
+      }, {
+         "code" : "Grinders",
+         "count" : 1,
+         "name" : "Grinders",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Grinders"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AGrinders"
+         },
+         "selected" : false
+      }, {
+         "code" : "Kahlua",
+         "count" : 2,
+         "name" : "Kahlua",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Kahlua"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AKahlua"
+         },
+         "selected" : false
+      }, {
+         "code" : "Kenmore",
+         "count" : 1,
+         "name" : "Kenmore",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Kenmore"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AKenmore"
+         },
+         "selected" : false
+      }, {
+         "code" : "Kirkland Signature",
+         "count" : 1,
+         "name" : "Kirkland Signature",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Kirkland+Signature"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AKirkland%2BSignature"
+         },
+         "selected" : false
+      }, {
+         "code" : "Moccona",
+         "count" : 2,
+         "name" : "Moccona",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Moccona"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AMoccona"
+         },
+         "selected" : false
+      }, {
+         "code" : "Nescafe",
+         "count" : 2,
+         "name" : "Nescafe",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Nescafe"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ANescafe"
+         },
+         "selected" : false
+      }, {
+         "code" : "Nescafé",
+         "count" : 1,
+         "name" : "Nescafé",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Nescaf%C3%A9"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ANescaf%25C3%25A9"
+         },
+         "selected" : false
+      }, {
+         "code" : "Nestle",
+         "count" : 1,
+         "name" : "Nestle",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Nestle"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ANestle"
+         },
+         "selected" : false
+      }, {
+         "code" : "Ninja",
+         "count" : 1,
+         "name" : "Ninja",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Ninja"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ANinja"
+         },
+         "selected" : false
+      }, {
+         "code" : "Philips",
+         "count" : 1,
+         "name" : "Philips",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Philips"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3APhilips"
+         },
+         "selected" : false
+      }, {
+         "code" : "Signature Housewares",
+         "count" : 1,
+         "name" : "Signature Housewares",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Signature+Housewares"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ASignature%2BHousewares"
+         },
+         "selected" : false
+      }, {
+         "code" : "Starbucks By Nespresso",
+         "count" : 2,
+         "name" : "Starbucks By Nespresso",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Starbucks+By+Nespresso"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AStarbucks%2BBy%2BNespresso"
+         },
+         "selected" : false
+      }, {
+         "code" : "Ten Acre Gifts",
+         "count" : 1,
+         "name" : "Ten Acre Gifts",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Ten+Acre+Gifts"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ATen%2BAcre%2BGifts"
+         },
+         "selected" : false
+      }, {
+         "code" : "Thermoflask",
+         "count" : 1,
+         "name" : "Thermoflask",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Thermoflask"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AThermoflask"
+         },
+         "selected" : false
+      }, {
+         "code" : "Thoughtfully",
+         "count" : 1,
+         "name" : "Thoughtfully",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Thoughtfully"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AThoughtfully"
+         },
+         "selected" : false
+      }, {
+         "code" : "Timber Ridge",
+         "count" : 1,
+         "name" : "Timber Ridge",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Timber+Ridge"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3ATimber%2BRidge"
+         },
+         "selected" : false
+      }, {
+         "code" : "Universal Broadmoore",
+         "count" : 1,
+         "name" : "Universal Broadmoore",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Universal+Broadmoore"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AUniversal%2BBroadmoore"
+         },
+         "selected" : false
+      }, {
+         "code" : "Vittoria",
+         "count" : 2,
+         "name" : "Vittoria",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Vittoria"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AVittoria"
+         },
+         "selected" : false
+      }, {
+         "code" : "Westinghouse",
+         "count" : 1,
+         "name" : "Westinghouse",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:Westinghouse"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3AWestinghouse"
+         },
+         "selected" : false
+      }, {
+         "code" : "over&back",
+         "count" : 1,
+         "name" : "over&back",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Brand:over%26back"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ABrand%3Aover%2526back"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Collection Name",
+      "multiSelect" : true,
+      "name" : "Small Appliances_Collection Name",
+      "priority" : 3003,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Breville Barista Express",
+         "count" : 1,
+         "name" : "Breville Barista Express",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Collection Name:Breville+Barista+Express"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Collection+Name%3ABreville%2BBarista%2BExpress"
+         },
+         "selected" : false
+      }, {
+         "code" : "Breville The Barista Touch",
+         "count" : 1,
+         "name" : "Breville The Barista Touch",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Collection Name:Breville+The+Barista+Touch"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Collection+Name%3ABreville%2BThe%2BBarista%2BTouch"
+         },
+         "selected" : false
+      }, {
+         "code" : "De'Longhi Eletta Explore",
+         "count" : 1,
+         "name" : "De'Longhi Eletta Explore",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Collection Name:De%27Longhi+Eletta+Explore"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Collection+Name%3ADe%2527Longhi%2BEletta%2BExplore"
+         },
+         "selected" : false
+      }, {
+         "code" : "De'Longhi Nespresso Essenza Mini Black (EN85BKMT)",
+         "count" : 1,
+         "name" : "De'Longhi Nespresso Essenza Mini Black (EN85BKMT)",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Collection Name:De%27Longhi+Nespresso+Essenza+Mini+Black+%28EN85BKMT%29"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Collection+Name%3ADe%2527Longhi%2BNespresso%2BEssenza%2BMini%2BBlack%2B%2528EN85BKMT%2529"
+         },
+         "selected" : false
+      }, {
+         "code" : "De'Longhi Nespresso Vertuo Lattissima",
+         "count" : 1,
+         "name" : "De'Longhi Nespresso Vertuo Lattissima",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Collection Name:De%27Longhi+Nespresso+Vertuo+Lattissima"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Collection+Name%3ADe%2527Longhi%2BNespresso%2BVertuo%2BLattissima"
+         },
+         "selected" : false
+      }, {
+         "code" : "De'Longhi Vertuo Pop",
+         "count" : 1,
+         "name" : "De'Longhi Vertuo Pop",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Collection Name:De%27Longhi+Vertuo+Pop"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Collection+Name%3ADe%2527Longhi%2BVertuo%2BPop"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Power (Watts)",
+      "multiSelect" : true,
+      "name" : "Small Appliances_Power (Watts)",
+      "priority" : 3002,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "1200 -1310 W",
+         "count" : 1,
+         "name" : "1200 -1310 W",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Power (Watts):1200+-1310+W"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Power+%28Watts%29%3A1200%2B-1310%2BW"
+         },
+         "selected" : false
+      }, {
+         "code" : "1260",
+         "count" : 1,
+         "name" : "1260",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Power (Watts):1260"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Power+%28Watts%29%3A1260"
+         },
+         "selected" : false
+      }, {
+         "code" : "1450W",
+         "count" : 1,
+         "name" : "1450W",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Power (Watts):1450W"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Power+%28Watts%29%3A1450W"
+         },
+         "selected" : false
+      }, {
+         "code" : "1500W",
+         "count" : 1,
+         "name" : "1500W",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Power (Watts):1500W"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Power+%28Watts%29%3A1500W"
+         },
+         "selected" : false
+      }, {
+         "code" : "1650W",
+         "count" : 1,
+         "name" : "1650W",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Power (Watts):1650W"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Power+%28Watts%29%3A1650W"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Cord Length",
+      "multiSelect" : true,
+      "name" : "Small Appliances_Cord Length",
+      "priority" : 3000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "0.75 Metre",
+         "count" : 1,
+         "name" : "0.75 Metre",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Cord Length:0.75+Metre"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Cord+Length%3A0.75%2BMetre"
+         },
+         "selected" : false
+      }, {
+         "code" : "1.2 Metre",
+         "count" : 1,
+         "name" : "1.2 Metre",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Small Appliances_Cord Length:1.2+Metre"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASmall+Appliances_Cord+Length%3A1.2%2BMetre"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Size",
+      "multiSelect" : true,
+      "name" : "Size",
+      "priority" : 3000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "1 Kg",
+         "count" : 1,
+         "name" : "1 Kg",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:1+Kg"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A1%2BKg"
+         },
+         "selected" : false
+      }, {
+         "code" : "1.92kg",
+         "count" : 1,
+         "name" : "1.92kg",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:1.92kg"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A1.92kg"
+         },
+         "selected" : false
+      }, {
+         "code" : "120 Pack",
+         "count" : 1,
+         "name" : "120 Pack",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:120+Pack"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A120%2BPack"
+         },
+         "selected" : false
+      }, {
+         "code" : "1kg",
+         "count" : 1,
+         "name" : "1kg",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:1kg"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A1kg"
+         },
+         "selected" : false
+      }, {
+         "code" : "2 x 400 gram",
+         "count" : 1,
+         "name" : "2 x 400 gram",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:2+x+400+gram"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A2%2Bx%2B400%2Bgram"
+         },
+         "selected" : false
+      }, {
+         "code" : "2 x 650 gram",
+         "count" : 1,
+         "name" : "2 x 650 gram",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:2+x+650+gram"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A2%2Bx%2B650%2Bgram"
+         },
+         "selected" : false
+      }, {
+         "code" : "354ml",
+         "count" : 1,
+         "name" : "354ml",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:354ml"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A354ml"
+         },
+         "selected" : false
+      }, {
+         "code" : "800g",
+         "count" : 1,
+         "name" : "800g",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Size:800g"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASize%3A800g"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Spirit Bottle Size",
+      "multiSelect" : true,
+      "name" : "Spirits_Bottle",
+      "priority" : 3000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "1.75 Litre",
+         "count" : 1,
+         "name" : "1.75 Litre",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Spirits_Bottle:1.75+Litre"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3ASpirits_Bottle%3A1.75%2BLitre"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Type",
+      "multiSelect" : true,
+      "name" : "Type",
+      "priority" : -999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Coffee Liqueur",
+         "count" : 1,
+         "name" : "Coffee Liqueur",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Type:Coffee+Liqueur"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AType%3ACoffee%2BLiqueur"
+         },
+         "selected" : false
+      }, {
+         "code" : "Coffee Machine",
+         "count" : 1,
+         "name" : "Coffee Machine",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Type:Coffee+Machine"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AType%3ACoffee%2BMachine"
+         },
+         "selected" : false
+      }, {
+         "code" : "Mug",
+         "count" : 1,
+         "name" : "Mug",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Type:Mug"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AType%3AMug"
+         },
+         "selected" : false
+      }, {
+         "code" : "Mugs",
+         "count" : 1,
+         "name" : "Mugs",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:Type:Mugs"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AType%3AMugs"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Price",
+      "multiSelect" : true,
+      "name" : "visiblePrice",
+      "priority" : -9000,
+      "translatable" : true,
+      "values" : [ {
+         "code" : "$0 - $499",
+         "count" : 19,
+         "name" : "$0 - $499",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:visiblePrice:%240+-+%24499"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AvisiblePrice%3A%25240%2B-%2B%2524499"
+         },
+         "selected" : false
+      }, {
+         "code" : "$500 - $999",
+         "count" : 2,
+         "name" : "$500 - $999",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:visiblePrice:%24500+-+%24999"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AvisiblePrice%3A%2524500%2B-%2B%2524999"
+         },
+         "selected" : false
+      }, {
+         "code" : "$1000 - $2000",
+         "count" : 1,
+         "name" : "$1000 - $2000",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:visiblePrice:%241000+-+%242000"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AvisiblePrice%3A%25241000%2B-%2B%25242000"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Id Verification Required",
+      "multiSelect" : true,
+      "name" : "idVerificationEnabled",
+      "priority" : -9999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "false",
+         "count" : 37,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:idVerificationEnabled:false"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AidVerificationEnabled%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Customer Ratings",
+      "multiSelect" : true,
+      "name" : "bazaarVoiceAverageRatingFacet",
+      "priority" : -9999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "5",
+         "count" : 6,
+         "name" : "5",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:bazaarVoiceAverageRatingFacet:5"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AbazaarVoiceAverageRatingFacet%3A5"
+         },
+         "selected" : false
+      }, {
+         "code" : "4-5",
+         "count" : 13,
+         "name" : "4-5",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:bazaarVoiceAverageRatingFacet:4-5"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AbazaarVoiceAverageRatingFacet%3A4-5"
+         },
+         "selected" : false
+      }, {
+         "code" : "3-4",
+         "count" : 2,
+         "name" : "3-4",
+         "query" : {
+            "query" : {
+               "value" : "coffee:relevance:bazaarVoiceAverageRatingFacet:3-4"
+            },
+            "url" : "/search?q=coffee%3Arelevance%3AbazaarVoiceAverageRatingFacet%3A3-4"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   } ],
+   "freeTextSearch" : "coffee",
+   "indexSelection" : true,
+   "pagination" : {
+      "currentPage" : 50,
+      "pageSize" : 8,
+      "sort" : "relevance",
+      "totalPages" : 0,
+      "totalResults" : 0
+   },
+   "products" : [ ],
+   "sorts" : [ {
+      "code" : "relevance",
+      "name" : "Relevance",
+      "selected" : true
+   }, {
+      "code" : "name-asc",
+      "name" : "Name (A-Z)",
+      "selected" : false
+   }, {
+      "code" : "name-desc",
+      "name" : "Name (Z-A)",
+      "selected" : false
+   }, {
+      "code" : "price-asc",
+      "name" : "Price (Low to High)",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price (High to Low)",
+      "selected" : false
+   }, {
+      "code" : "sellCount-desc",
+      "name" : "Top Sellers",
+      "selected" : false
+   }, {
+      "code" : "ratings-desc",
+      "name" : "Top Rated",
+      "selected" : false
+   } ]
+}

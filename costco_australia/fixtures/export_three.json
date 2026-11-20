@@ -1,0 +1,500 @@
+{
+   "product" : [ {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "Small-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "brands",
+         "value" : true
+      }, {
+         "key" : "cos_2.4",
+         "value" : true
+      }, {
+         "key" : "cos_40",
+         "value" : true
+      }, {
+         "key" : "cos_40.8",
+         "value" : true
+      }, {
+         "key" : "mothers-day-2025-home-decor",
+         "value" : true
+      }, {
+         "key" : "appliances",
+         "value" : false
+      }, {
+         "key" : "40.8.11",
+         "value" : true
+      }, {
+         "key" : "costco",
+         "value" : true
+      }, {
+         "key" : "KENMORE",
+         "value" : false
+      }, {
+         "key" : "cos_2",
+         "value" : true
+      }, {
+         "key" : "cos_2.4.4",
+         "value" : true
+      } ],
+      "addableToCartFromListingPage" : true,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 4.4,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$159.98",
+         "formattedValue" : "$79.99",
+         "intValue" : 7999,
+         "priceType" : "BUY",
+         "value" : 79.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "255146",
+      "couponDiscount" : {
+         "discountType" : "default",
+         "hideDiscountCalculation" : false
+      },
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"product-details-wrapper-au\">\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\">\n<h2>Kenmore Drip Coffee Maker KKCM12WAU</h2>\nThere&#39;s nothing better in the world than that first sip of coffee in the morning and with this programmable 12 cup coffee maker you won&#39;t have to wait. Programme the brewer the night before and wake up to the delicious aroma of perfectly brewed coffee or make a fresh, hot pot with the push of a button. The dishwasher safe glass carafe holds up to 12 cups of brewed coffee and a non stick warming plate keeps it hot and flavourful for hours. The attractive stainless steel profile with four colour options will complement any decor and the narrow profile means more countertop space. With a charcoal filter to remove impurities from the water before brewing and state of the art aroma control brewing technology that steeps the grounds before releasing the coffee into the carafe, you&#39;ll definitely be waking up on the right side of the bed from now on. Best of all, Kenmore products are covered by a 2 year limited warranty for your peace of mind.<br />\n&nbsp;\n<p>The product features:</p>\n\n<ul class=\"in-page-list-style\">\n\t<li>Coffee maker base, glass carafe with lid, reusable cone filter, water filter holder, 1 x charcoal water filter cartridge</li>\n\t<li>Large 12 coffee cup capacity in this coffee machine: brew up to 1.8 L of coffee</li>\n\t<li>Programmable convenience: set the timer the night before</li>\n\t<li>Includes water purifier and reusable filter: 12 cup coffee</li>\n\t<li>Bundle with 12 pack Kenmore filters &ndash; exclusive to Costco</li>\n\t<li>Bonus - 12 month supply charcoal filters (only at Costco)</li>\n\t<li>Power 1000 Watts</li>\n\t<li>With&nbsp;12 Filters&nbsp;</li>\n</ul>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n</div>\n",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "Kenmore Drip Coffee Maker KKCM12WAU",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : false,
+      "hasPricePerUnit" : false,
+      "hidePriceValue" : false,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hd0/hc8/436582821199902.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h8f/hc3/436582819692574.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h2f/hc3/436582820184094.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h2f/hc3/436582820184094.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h3a/h25/436582822314014.webp"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hd6/h91/436582822903838.webp"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h80/hd6/436582823428126.webp"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h80/hd6/436582823428126.webp"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : false,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 0.0,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "Kenmore Drip Coffee Maker KKCM12WAU",
+      "nameInSelectedLanguage" : "Kenmore Drip Coffee Maker KKCM12WAU",
+      "normalizedLexicalScore" : 0.0,
+      "normalizedVectorScore" : 0.0,
+      "numberOfReviews" : 7,
+      "overlayRequired" : false,
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$159.98",
+         "formattedValue" : "$79.99",
+         "intValue" : 7999,
+         "priceType" : "BUY",
+         "value" : 79.99
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : true,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 3.0,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "tire" : false,
+      "url" : "/Appliances/Coffee-Drink-Makers/Coffee-Espresso-Machines/Kenmore-Drip-Coffee-Maker-KKCM12WAU/p/255146",
+      "validExVatData" : true,
+      "vectorScore" : 0.0,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   }, {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "Small-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "THERMOFLASK",
+         "value" : false
+      }, {
+         "key" : "fy27-p2-w1-Member-Appreciation-Deals-D7",
+         "value" : false
+      }, {
+         "key" : "cos_2.5",
+         "value" : false
+      }, {
+         "key" : "brands",
+         "value" : false
+      }, {
+         "key" : "cos_2.5.9",
+         "value" : false
+      }, {
+         "key" : "fy27-p2-w1-Member-Appreciation-Deals",
+         "value" : false
+      }, {
+         "key" : "costco",
+         "value" : false
+      }, {
+         "key" : "cos_3",
+         "value" : false
+      } ],
+      "addableToCartFromListingPage" : false,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 4.7,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$79.98",
+         "formattedValue" : "$39.99",
+         "intValue" : 3999,
+         "priceType" : "BUY",
+         "value" : 39.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "1901732",
+      "couponDiscount" : {
+         "discountType" : "default",
+         "hideDiscountCalculation" : false
+      },
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"clearboth\">&nbsp;</div>\n\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\">\n<h2>Thermoflask Coffee Mugs 2 Piece Set</h2>\nThe perfect gift for coffee and tea lovers. This set includes a 474 ml tumbler and a 355 ml mug, great for home or on the go. Made from durable 18/8 stainless steel with double wall vacuum insulation to keep drinks hot for up to 6 hours. Splash proof slider lids and non-slip silicone bases add convenience and stability. Whether gifting or getting, it&rsquo;s a cozy essential for any day.<br />\n<br />\nThis product features:\n<ul class=\"in-page-list-style\">\n\t<li>Press in splash proof slider lid</li>\n\t<li>Built in non-slip silicone coaster</li>\n\t<li>18/8 food grade stainless steel. BPA Free</li>\n\t<li>Limited lifetime warranty</li>\n\t<li>Top rack dishwasher safe and easy to clean by hand</li>\n\t<li>Convenient easy carry handle</li>\n\t<li>Durable powder coat finish</li>\n\t<li>Temp-Lock technology keeps drinks&nbsp;hot for 6 hours</li>\n\t<li>474 ml and 355 ml</li>\n</ul>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "Thermoflask Coffee Mugs 2 Piece Set",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : true,
+      "hasPricePerUnit" : false,
+      "hidePriceValue" : false,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h2d/h60/383052948373534.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/ha3/h44/383052947193886.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h19/hfd/383052947587102.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h19/hfd/383052947587102.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h80/h48/383052949553182.webp"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h3c/h54/383052950470686.webp"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h59/h60/383052950863902.webp"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h59/h60/383052950863902.webp"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : true,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 0.0,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "Thermoflask Coffee Mugs 2 Piece Set",
+      "nameInSelectedLanguage" : "Thermoflask Coffee Mugs 2 Piece Set",
+      "normalizedLexicalScore" : 0.0,
+      "normalizedVectorScore" : 0.0,
+      "numberOfReviews" : 9,
+      "overlayRequired" : false,
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$79.98",
+         "formattedValue" : "$39.99",
+         "intValue" : 3999,
+         "priceType" : "BUY",
+         "value" : 39.99
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : false,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 2.0,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "tire" : false,
+      "url" : "/c/Thermoflask-Coffee-Mugs-2-Piece-Set/p/1901732",
+      "validExVatData" : true,
+      "vectorScore" : 0.0,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   }, {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "cos_40.8.1",
+         "value" : true
+      }, {
+         "key" : "brands",
+         "value" : true
+      }, {
+         "key" : "cos_40.6",
+         "value" : false
+      }, {
+         "key" : "cos_10.3.7",
+         "value" : true
+      }, {
+         "key" : "cos_40.8",
+         "value" : true
+      }, {
+         "key" : "cos_10.6",
+         "value" : false
+      }, {
+         "key" : "cos_10.3",
+         "value" : true
+      }, {
+         "key" : "Small-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "cos_40",
+         "value" : true
+      }, {
+         "key" : "mothers-day-2025-hampers-flowers",
+         "value" : true
+      }, {
+         "key" : "cos_10",
+         "value" : true
+      }, {
+         "key" : "KAHLUA",
+         "value" : false
+      }, {
+         "key" : "costco",
+         "value" : true
+      } ],
+      "addableToCartFromListingPage" : true,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 4.8,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$179.98",
+         "formattedValue" : "$89.99",
+         "intValue" : 8999,
+         "priceType" : "BUY",
+         "value" : 89.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "42943",
+      "couponDiscount" : {
+         "discountType" : "default",
+         "hideDiscountCalculation" : false
+      },
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\"><h2>Kahlua Coffee Liqueur 1.75L</h2>From the high mountains of Veracruz, Mexico comes the original Kahlua coffee liqueur. The blend of 100% Arabica coffee and sugarcane spirit creates a dark intensity with a rich flavour, with notes of vanilla and caramel. Kahlua is best enjoyed chilled, over ice or in your favourite cocktail or coffee drink.</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "Kahlua Coffee Liqueur 1.75L",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : false,
+      "hasPricePerUnit" : true,
+      "hidePriceValue" : true,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h0b/ha0/349172176912414.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/he5/h31/349172176683038.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/he5/h44/349172176781342.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/he5/h44/349172176781342.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h24/hfe/349172177043486.jpg"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h23/h70/349172177174558.jpg"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h1d/h77/349172177305630.jpg"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h1d/h77/349172177305630.jpg"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : false,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 0.0,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "Kahlua Coffee Liqueur 1.75L",
+      "nameInSelectedLanguage" : "Kahlua Coffee Liqueur 1.75L",
+      "normalizedLexicalScore" : 0.0,
+      "normalizedVectorScore" : 0.0,
+      "numberOfReviews" : 24,
+      "overlayRequired" : false,
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$179.98",
+         "formattedValue" : "$89.99",
+         "intValue" : 8999,
+         "priceType" : "BUY",
+         "value" : 89.99
+      },
+      "pricePerUnit" : {
+         "currencyIso" : "AUD",
+         "formattedValue" : "$5.15",
+         "intValue" : 515,
+         "priceType" : "BUY",
+         "value" : 5.15
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : true,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 1.0,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "tire" : false,
+      "unitType" : "ML",
+      "url" : "/Wine-Spirits/Spirits/Liqueurs/Kahlua-Coffee-Liqueur-175L/p/42943",
+      "validExVatData" : true,
+      "vectorScore" : 0.0,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   } ]
+}

@@ -1,0 +1,7 @@
+{
+   "type" : "categoryHierarchyWsDTO",
+   "id" : "hot-buys",
+   "name" : "Hot Buys",
+   "url" : "/c/hot-buys",
+   "subcategories" : [ ]
+}

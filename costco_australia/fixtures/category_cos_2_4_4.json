@@ -1,0 +1,50 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "indexSelection" : true,
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 1,
+      "sort" : "relevance",
+      "totalPages" : 10,
+      "totalResults" : 10
+   },
+   "category" : {
+      "campaign" : false,
+      "code" : "cos_2.4.4",
+      "defaultSearchOption" : {
+         "code" : "au-search-all",
+         "name" : "ALL"
+      },
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "metaDescription" : "Buy top-rated coffee machines and espresso machines from brands like Starbucks, Nespresso & more. Enjoy your coffee with a range of beans and accessories.",
+      "metaKeywords" : "",
+      "metaTitle" : "Shop Coffee Machines & Espresso Machines - Costco Australia",
+      "name" : "Coffee & Espresso Machines",
+      "subCategories" : [ ],
+      "supercategories" : [ {
+         "campaign" : false,
+         "code" : "cos_2.4",
+         "deliveryLimitationsEnabled" : false,
+         "displayPostalCodeHeader" : false,
+         "ineligibleToLeaveUnattended" : false,
+         "landingPage" : false,
+         "name" : "Coffee & Drink Makers",
+         "url" : "/Appliances/Coffee-Drink-Makers/c/cos_2.4"
+      }, {
+         "campaign" : false,
+         "code" : "cos_2",
+         "deliveryLimitationsEnabled" : false,
+         "displayPostalCodeHeader" : false,
+         "ineligibleToLeaveUnattended" : false,
+         "landingPage" : false,
+         "name" : "Appliances",
+         "url" : "/Appliances/c/cos_2"
+      } ],
+      "url" : "/Appliances/Coffee-Drink-Makers/Coffee-Espresso-Machines/c/cos_2.4.4"
+   },
+   "subCategories" : [ ]
+}

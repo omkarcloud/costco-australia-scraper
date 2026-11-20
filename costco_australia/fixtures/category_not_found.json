@@ -1,0 +1,6 @@
+{
+   "errors" : [ {
+      "message" : "Category with code 'no-such-cat' not found! (Active session catalogversions: australiaProductCatalog.Online, auditMediaCatalog.Online, australiaContentCatalog.Online, australiaClassificationCatalog.1.0, centralContentCatalog.Online)",
+      "type" : "UnknownIdentifierError"
+   } ]
+}

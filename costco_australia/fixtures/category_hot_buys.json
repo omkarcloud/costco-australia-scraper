@@ -1,0 +1,32 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "indexSelection" : true,
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 1,
+      "sort" : "relevance",
+      "totalPages" : 451,
+      "totalResults" : 451
+   },
+   "category" : {
+      "campaign" : true,
+      "code" : "hot-buys",
+      "defaultSearchOption" : {
+         "code" : "au-search-all",
+         "name" : "ALL"
+      },
+      "deliveryLimitationsEnabled" : false,
+      "displayPostalCodeHeader" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "landingPage" : false,
+      "metaDescription" : "Save money & shop at Costco Australia for Hot Buys! Get great deals on Apple, Samsung, Nike, Adidas & more. Bulk prices on electronics, apparel & more.",
+      "metaKeywords" : "",
+      "metaTitle" : "Hot Buys - Costco Australia",
+      "name" : "Hot Buys",
+      "subCategories" : [ ],
+      "supercategories" : [ ],
+      "url" : "/c/hot-buys"
+   },
+   "subCategories" : [ ]
+}
